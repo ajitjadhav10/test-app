@@ -14,7 +14,7 @@ def fetch_stock_data(symbol, start, end):
 # Main function to run the Streamlit app
 def main():
     st.title("Stock Data Analysis App")
-    st.sidebar.image("/content/Screenshot 2024-04-14 at 2.14.01 PM.png", width=200)
+    #st.sidebar.image("/content/Screenshot 2024-04-14 at 2.14.01 PM.png", width=200)
 
     # Date range selection
     start_date = st.sidebar.date_input("Select start date", datetime(2023, 1, 1))
