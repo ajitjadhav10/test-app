@@ -1,5 +1,7 @@
+streamlit
+pandas
+matplotlib
+pandas-datareader
 yfinance
-plotly.express
-prophet
-scikit-learn==0.24.2
-numpy
+scikit-learn
+
