@@ -1,8 +1,5 @@
 yfinance
-pandas
-streamlit
 plotly.express
 prophet
 sklearn.metrics
-mean_squared_error
 numpy
